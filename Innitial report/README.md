@@ -36,3 +36,6 @@ na$bana
 3.Return the last column as the BWT output: `annb$aa`
 
 The resulting string is easier to compress because repeated characters are bunched up next to each other. But there needs to be additional data stored with the transformed data so that a reverse transformation can be done. Even though the resulting transformed data is larger than its original form but its compressibility characteristic is increased manyfold, essentially making it a “free” method of improving efficiency of compression methods.
+
+# Reference 
+* https://www.techopedia.com/definition/10467/burrows-wheeler-transform-bwt
