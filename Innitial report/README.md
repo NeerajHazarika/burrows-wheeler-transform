@@ -156,3 +156,4 @@ BWT is used in bzip and bzip2 for compression. BWT turns out to be great for com
 # Reference 
 * https://www.techopedia.com/definition/10467/burrows-wheeler-transform-bwt
 * https://medium.com/@mr-easy/burrows-wheeler-transform-d475e0aacad6
+* https://www.geeksforgeeks.org/burrows-wheeler-data-transform-algorithm/
